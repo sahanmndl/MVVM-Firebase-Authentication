@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/MVVMFirebaseAuthentication/app/src/main/res/layout/activity_auth.xml" value="0.176" />
         <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/MVVMFirebaseAuthentication/app/src/main/res/layout/activity_main.xml" value="0.176" />
-        <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/MVVMFirebaseAuthentication/app/src/main/res/layout/fragment_login.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/MVVMFirebaseAuthentication/app/src/main/res/layout/fragment_login.xml" value="0.176" />
+        <entry key="..\:/Users/Sahan Mondal/AndroidStudioProjects/MVVMFirebaseAuthentication/app/src/main/res/layout/fragment_register.xml" value="0.176" />
       </map>
     </option>
   </component>

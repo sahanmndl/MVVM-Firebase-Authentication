@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48974872437",
+    "project_id": "fir-mvvm-auth-test",
+    "storage_bucket": "fir-mvvm-auth-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48974872437:android:9f917d7057020a70965d3c",
+        "android_client_info": {
+          "package_name": "com.sahanmondal.mvvm_firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48974872437-fj7ckaden0bmeca99h8nc2dves3sjgup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjae0Pj_Dt9Pkz4wetn9h25KBWgE0pNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48974872437-fj7ckaden0bmeca99h8nc2dves3sjgup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
