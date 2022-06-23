@@ -48,13 +48,16 @@ class LoginFragment : Fragment(R.layout.fragment_login) {
         viewModel.loginStatus.observe(viewLifecycleOwner, EventObserver(
             onError = {
                 loginProgressBar.isVisible = false
+                btnLogin.isEnabled = true
                 snackBar(it)
             },
             onLoading = {
                 loginProgressBar.isVisible = true
+                btnLogin.isEnabled = false
             }
         ) {
             loginProgressBar.isVisible = false
+            btnLogin.isEnabled = true
             Intent(requireContext(), MainActivity::class.java).also {
                 startActivity(it)
                 requireActivity().finish()

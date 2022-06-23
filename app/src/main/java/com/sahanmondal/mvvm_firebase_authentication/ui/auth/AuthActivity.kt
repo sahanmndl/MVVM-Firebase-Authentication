@@ -14,6 +14,11 @@ class AuthActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_auth)
 
+    }
+
+    override fun onStart() {
+        super.onStart()
+
         if (FirebaseAuth.getInstance().currentUser != null) {
             Intent(this, MainActivity::class.java).also {
                 startActivity(it)
