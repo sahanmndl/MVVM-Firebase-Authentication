@@ -5,4 +5,11 @@
     <string name="login">Login</string>
     <string name="name">Name</string>
     <string name="register">Register</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="error_input_empty">Fields cannot be empty!</string>
+    <string name="error_password_short">Password must be atleast 8 characters</string>
+    <string name="error_invalid_email">Invalid email!</string>
+    <string name="success_register">Registration Successful</string>
 </resources>
